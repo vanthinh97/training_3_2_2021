@@ -64,24 +64,24 @@ namespace Training_02_02_2021
 
         }
 
-        static void SortNumber(int[] arr1, int n)
-        {
-            int i, j;
+        //static void SortNumber(int[] arr1, int n)
+        //{
+        //    int i, j;
             
-            for (i = 0; i < n; i++)
-            {
-                for (j = i + 1; j < n; j++)
-                {
-                    if (arr1[i] < arr1[j])
-                    {
-                        //cach trao doi gia tri
-                        int tmp = arr1[i];
-                        arr1[i] = arr1[j];
-                        arr1[j] = tmp;
-                    }
-                }
-            }
-        }
+        //    for (i = 0; i < n; i++)
+        //    {
+        //        for (j = i + 1; j < n; j++)
+        //        {
+        //            if (arr1[i] < arr1[j])
+        //            {
+        //                //cach trao doi gia tri
+        //                int tmp = arr1[i];
+        //                arr1[i] = arr1[j];
+        //                arr1[j] = tmp;
+        //            }
+        //        }
+        //    }
+        //}
 
         static void SortChar(char[] arr1, int n)
         {
