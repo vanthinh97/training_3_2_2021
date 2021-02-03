@@ -11,7 +11,7 @@ namespace Training_02_02_2021
         static void Main(string[] args)
         {
             //nhap vao day abc sao cho in ra là cba
-            //string input = Console.ReadLine();
+
             //char[] sPlit = input.ToCharArray();
             //char[] Edit = new char[sPlit.Length];
             //int j = 0;
